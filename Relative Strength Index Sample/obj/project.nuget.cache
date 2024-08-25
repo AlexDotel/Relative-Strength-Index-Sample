@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v4f7oBEyzKw=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\joalr\\Documents\\cAlgo\\Sources\\Robots\\Relative Strength Index Sample\\Relative Strength Index Sample\\Relative Strength Index Sample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joalr\\.nuget\\packages\\ctrader.automate\\1.0.9\\ctrader.automate.1.0.9.nupkg.sha512",
+    "C:\\Users\\joalr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\joalr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\joalr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
